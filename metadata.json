@@ -1,0 +1,6 @@
+{
+  "name": "Random Adventure",
+  "description": "Spontaneity in your pocket! Discover randomly generated adventures, activities, food, and culture tailored directly to your budget and location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
